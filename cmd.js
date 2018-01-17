@@ -12,7 +12,8 @@ const dataMap = dataSplit.filter(item => item.trim() !== '').map(row => row.trim
 
 const renderRow = async (row) => {
   const textRow = await translate(row, { from: 'en', to: 'th'})
-  const textMessage = `${row}\n+ ${textRow.text}\n\n`
+  const textEng = row.split(',').map((text, index) => (index !== row.split(',').length - 1) ? `${text.trim()},` : text.trim()).join('\n')
+  const textMessage = `${textEng}\n+ ${textRow.text}\n\n`
 
   // console.log(textMessage)
   // console.log(chalk.green(textRow.text))
