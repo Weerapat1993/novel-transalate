@@ -15,12 +15,17 @@ const renderRow = async (row) => {
   const textEng = row.split('.').map(text => `${text.trim()}.`)
   const textEngJoin = textEng.length <= 1 ? textEng.join('\n') : textEng.slice(0, row.split('.').length - 1).join('\n')
   // const textEng = row.split(',').map((text, index) => (index !== row.split(',').length - 1) ? `${text.trim()},` : text.trim()).join('\n')
-  const textMessage = `${textEngJoin}\n+ ${textRow.text}\n\n`
+  // const textStory = `${textEngJoin}\n+ ${textRow.text}\n\n`
+  const textStory = `${textEngJoin}\n* **${textRow.text}**\n\n`
+  const textMessage = `\`\`\`diff
+${textEngJoin}
++ ${textRow.text}
+\`\`\`\n`
 
   // console.log(textMessage)
   // console.log(chalk.green(textRow.text))
-  // console.log('')
-  return textMessage
+  // console.log(row.search(`“`))
+  return row.search(`“`) === 0 || row.search(/(\()/g) === 0 || row.search('「') === 0 || row.search(/(\[)/g) === 0 ? textMessage : textStory
 }
 
 const runFunction = (pwd) => {

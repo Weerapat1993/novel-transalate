@@ -8,9 +8,7 @@ const Transslate = (cmd, env, pwd) => {
     .createDirectory('/docs')
     .createFile('/docs/test.md', `
 # Header
-\`\`\`diff
 ${env}
-\`\`\`
 `, true)
 }
 

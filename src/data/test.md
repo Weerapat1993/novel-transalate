@@ -1,72 +1,111 @@
-Youth, Meeting with a little girl
-Deep inside a forest, a young man was walking.
-Despite the fact that day was not over yet, the forest where not even a hand would enter was creepily dim. Nothing could be heard from the forest except for the occasional sounds coming from birds. It was a place where, a heavy gloom could be felt through the air.
+Youth, Picking up a little girl
+To be acknowledged as a criminal, the child in front of him was way too young.
 
-He distorted his face into one of unpleasantness, a lowered sword in one hand.
-“Ahh… damn it”
-A terrible smelling mucus attached itself to the sword as he started striking the nearby grass, making him curse out loud.
-“There’s a reason why no one wants to do this job… Geez, before I go home, I guess I’ll go take a shower.”
-Seeing that his leather coat also had mucus on it, he made an even more painful face.
-Due to the sudden increase of Frog-looking monsters inside the forest, he received a request to subdue them, getting there by feet was something that happened just now.
-Getting rid of the monsters wasn’t too hard of a task. His weapon treatment as well as magic, to him who has a certain level of confidence, the time it takes for the return trip would be the tiring part.
-“There should have been time until the request from the agency but… i failed huh…”
-The natural sounds of footsteps stepping on grass, a sticky ‘bisha bisha’ sound was heard, along with a sigh as he drooped his shoulders.
+The ‘Demon race’ compared to a person of a ‘Human race’ like Dale, was a race that had long lives. Dale couldn’t even guess the ages of the ‘Human race’ are but,  from the face peeking out of the thicket, he could see that she was around 5-6 years old.
+It wasn’t an age where there was a lot of difference.
 
-The biggest reason for him to take this job was that to get to where he was right now from the city, a round trip would still be within the day. He cursed himself for making such a simple-minded decision.
-The job itself wasn’t anything special.
-Spotting and exterminating the Coronee that are made inside the forest, it was a simple mindless job.
+Noticing that the kid who had been watching him motionlessly had her eyes on the fish next to the camp-fire, Dale remembered its existence. He quickly took it off the skewer. It was a little burnt.
 
-There was no choice but to get covered up with their body juices and the mucus they vomit out.
+“….Hmm…”
+If the skewer moves from left to right, so does the kid’s gaze.
+Somehow it seems that this was also something that became quite noticeable.
+“…Want some?”
+It would be awkward if i just started eating in front of the kid like i was flaunting.
+Working with that kind of mentality, he called out to her with a an almost uninterested voice. At the same time he grumbles out a startling soliloquy, what the heck did i just say.
 
-It wasn’t that terrible a smell, early on his sense of smell was paralysed, but it was probably his sole salvation.
-However, if he was to return to town like that, even the gatekeeper who is an acquaintance would probably twist his face.
+From his voice the kid once again turned her gaze towards his face, her neck leaning slightly forward.
+[“***?***,****?”]
+“Hn? Oh…?”
+The words coming out of the kids mouth, this time Dale had to lean his neck forward.
+He couldn’t catch her words fast enough but, he remembered that it was a language that he had heard somewhere before.
+“Hmm… that guy, definitely…”
+A while back about the demon race, he recalled some memories from a fellow adventurer who he had learnt some words from.
+“The language of the demon race, is the same as the language you use to chant spell, what was it again…”
+I hit my hands together as i think ‘I got it’.
+That’s why the demon race are known as ‘The magicians who are born along with everything’, that’s what’s been said.
+“Hmm…, so…[Here, come, need, this?]”
+Because it’s the spell-casting language, I relied on some simple words to hopefully make some sense out of what i was saying. I didn’t have enough knowledge to hold conversation and such so, i didn’t start to consider what was the right thing to do.
+However, in a language that i understand, the kid’s face was quite obviously relieved. She climbed over the thicket with a rustle, coming closer to Dale’s side.
 
-In the town that he is currently staying in, he became a reasonably famous adventurer.
-Compared to this country where he who just turned 18 was acknowledged as an adult, back in his home-town they treated 15 as the coming of age. Since then he who had determined that this business was his way of living, along with a few years of achievements, he was marketed as a young fellow who shouldn’t be made lightly of.
+He called her over but, Dale was once again dazed.
+Next to a strange person you don’t know, not being wary at all, after the kid came closer— it wasn’t just that.
+The kid had become extremely thin.
+Her arms and feet peeked out from a piece of rag cloth that was probably once a one piece. You could see nothing but skin and bones.
+It was a questionable figure, and you could see that there were signs of malnutrition with just a glance.
+To kill this kid, you wouldn’t even need something as extravagant as a sword. If i just grip her far too thin neck with my hands, it would probably snap not too soon after.
 
-Black hair mixed with some brown, a long coat made from monster leather, a magic gauntlet on his left hand. It was at the level that if you mention someone with an extraordinary outer appearance, the name Dale Reki comes to mind.
+The demon race were isolated, however they were at the same time recognised as a race with strong camaraderie. That’s why being ‘exiled’ was only for extreme crimes.
+Furthermore, as expected from a race with a long life span, their birthrate was considerably low.
+Children to the demon race were, treasures.
+This kid, even if she became a criminal, the possibility of her being left out here in this terrible condition, Dale didn’t even think that.
 
-“‘Water, the origin of my name commands you, hear my voice <Search: Water>'”
-I used my magic, chanting a spell. The signs from the suddenly strengthened water changed into a course, which Dale forced himself into.
+“Give… eat….Ahh, what the hell am i saying…”
+While Dale was grimacing, he held out the skewer to the kid like he pushing it away. The words ‘Please eat this meal’ doesn’t exist in magic spells.
+That’s the reason that Dale was holding out the skewer but, the kid kept staring at the fish, before finally looking up at Dale.
+「 ” ******？ ” 」
+“It’s fine, just eat it”
+The kid looked to Dale questionably. Dale tried nodding for the time being. Seeing Dale like that, the kid slowly moved the fish to her mouth.
+She ate with tiny bites, a little bit at a time.
+He thought she was just like a small animal as he was left with nothing in his hand.
 
-In the field of vision that opened up in front of him, a small stream was flowing. Finding what he was looking for, all the tension left from Dale’s face.
-Taking off his coat, he drenches it in the gushing water. It was the only good suit that the magic-bearing him had, but there was just that much mucus given to it. It repels water so it’ll dry up real soon. Dale hung his coat up on a nearby branch.
-Thinking for a short while.
-Looking over his body as if to confirm once again, he was somehow reminded of the discomfort from the stink and the mucus. Thinking that he might as well clean himself properly, he takes off the tunic meant for blocking blades.
-Dale, who understood that the standards of the monster and beasts that reside in the forest would be no threat to him, casually acted as stated.
+After waiting for the kid to finish her fish, Dale once again chose his words.
+“Ahh,… [Thou, protect, person, together, exist?]”
+It’s not like its been decided that her guardian isn’t here. The kid who was just asked kept looking up, had already been replying to Dale’s awkwardly phrased words since some time ago.
+「 ” ***、************、****。************、******** ” 」
+“Hmm,… together, exist, negative? …beast, refused…?”
+Dale could only piece together a few words, but the kids expression was clearly depressed. So that the kid could think for a bit, Dale took hold of her little hand with his arms.
 
+Chasing after the kid who was advancing through the forest with small steps, Dale thinks to himself.
+Calling out to her, handing over the fish, if i had to say why then it had to be a whim. As I was wondering what i was going to do from now on.
+The kid suddenly stopped in her tracks, causing Dale to look up.
+[“What? Ahead?”]
+The kid pointed in front of her, shaking her head.
+「 ” *********** ” 」
+“More beasts? …That shouldn’t be it, right?”
+While Dale was thinking about it, something step out of where the kid was pointing.
 
- 
-His coat was dry, but his pants and tunic were dripping wet. Reviving the campfire, Dale expanded the top of the coat as a form of underwear and placed it below his waist, grilling the fish that he caught while he was bathing in the cold water.
-Around the time when a savoury smell was drifting around the area, his clothes were also mostly dry. Taking notice of the fish, Dale quickly got dressed in his clothes. As expected, he wasn’t shameless enough to be able to enjoy a meal in this kind of place in nothing but underwear.
+“Che!”
+And then, my breath was taken away.
+Even for Dale who swung his sword for a living, he hesitated to look at it in the eyes, “something that was once a person” was lying there.
 
-A small sound was made.
-Dale thought that it was some small animal that came, attracted by the smell, but as he moved his eyes over to there, he found himself lost for words.
+(…This is, most likely, the demon race. Judging from the shape of the horn… male…)
+Neither the possible method nor the time of death could be determined.
+The injuries were too severe.
+In this forest there were a lot of monsters and beasts.
+I don’t know if he was attacked or messed up after he died but, it was probably for that reason.
+(The horns are… properly on both sides. …Was it her dad? There was no way he could just abandon her all by herself even if she was exiled, something like that)
+I wonder if it’s right to feel like i should help that.
 
-A very young child, from the opposite side of the thicket was watching him.
-A small head was slightly peeking out of the thicket.
+I thought back to the words the kid said earlier.
+If i connect the dots, perhaps, that could’ve been what the father requested of her at the end.
+—You mustn’t stay by my corpse. In that time the beasts would probably gathered around. If that happens, then the kid wouldn’t even get the slightest chance to protect herself.– or something of the such.
 
-Dale, at first, read the presence wrong and was surprised.
-Next, it was a child but, it confused him seeing that such a small child was wondering around in this forest inhabited with monsters. There shouldn’t be a village in the surrounding vicinity is what he thought, then he noticed it.
-The kid was endowed with a round coiled up black horn on the side of it’s head.
+“Ahh… damn it. If i see this kinda thing, then there’s no way i can just leave the kid…”
+Dale scratched his head roughly.
+He had been given the father’s final wish.
+Furthermore, even though she followed the command until she was no where by his side, she quietly survived in the same forest and discovered his body.
 
-(‘Demon race’ huh… How troublesome…)
-I clicked my tongue in my heart.
-Even among the 7 ‘races’ that exist, they held the most power and, being unsociable they treated the other races as enemies. They say that the ‘Demon Race’ have a special body characteristic which are the have horns on the side of their heads.
-(Should i kill it…?)
-I even thought of a way to do it nice and quick.
-It’s a sign of nothing but trouble.
-Dale put power into the handle of the sword he was holding — and let go.
+[“By the origins of my name, followers of Gaia I commandeth, change into what this one desire <<Gaia Metamorphosis>>”]
+I chanted the spell with my hand next to the ground of the corpse. The ground sunk like it was getting the hell beat out of it, opening up a hole.
+The kid approached Dale at some point, looking up at him timidly, most likely due to the spell.
+Dale said looking at the kid.
+“Let’s bury him, at the very least. …I wonder if she understood? Hmm… [Entomb, Dirt, Death, Person]…”
+To show that she understood what Dale was saying, she nodded sleepily once.
+For a minute, Dale was troubled if he should show her the corpse in it’s horrible condition but, it seems like the kid had already accepted this some time ago. He shifted the gaze back to the ‘father’ once again staring intently as a final farewell.
+Perhaps, it might be something that should be visited every now and then.
 
-He had just washed himself after much effort, he didn’t want to be bathed in a blood spray.
-That went right by his corner of his head but, it was a straight-forward reason.
+After placing the corpse into the hole, Dale covers the hole back up with his magic and watched over the kid silently.
+「 ” ***** ” 」
+“Was that Thanks? Don’t worry about it.”
+On top of the grave that he had just finished, Dale once again exercised his magic.
+With earth magic, he summoned a giant pure white stone to place on it.
+He couldn’t carve a name on it but, for an improvisation this is probably a pretty good grave.
 
-The kid was looking at me intently with it’s large grey pupils, at an angle where it felt like he would spill over and fall.
-Once the sword left Dale’s hands, he calmed down so that he could observe the kid. Noticing the reason for the uncomfortable feeling he felt when he first saw it.
-
-The kid’s horn was, snapped off from it’s root on one side.
-(Oi oi… This kid, was she a criminal…?)
-Dale who was taken aback, made a face that seemed to think even himself was stupid.
-It was something he had heard from some adventurer friends, that it was one of the customs of the Demon race.
-
-—The horn which acts like the symbol of the race, the demon race think of it as a holy object. That’s why, those who commit a crime, are exiled with one of their horns snapped off as punishment—
+“… Sigh…, well, i guess this is also fate”
+Behind the kid who keeps on staring intently at the grave, Dale sighed.
+[“This one’s name, “Dale”, Thou, Name is?”]
+Turning her head around, she said with a surprised expression.
+“Latina”
+And thus with one word, she spun out a sound.
+“Latina… huh.    Latina, [This one, Together, Thou, Go?]”
+To the words that Dale said, the kid who will also definitely from here on out make even more surprised expression– Latina, sleepily nodded her head.
