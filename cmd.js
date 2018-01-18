@@ -1,6 +1,7 @@
 const chalk = require('chalk')
 const translate = require('google-translate-api')
-const Progress = require('cli-progress');
+const Progress = require('cli-progress')
+const { PROGRESS_BAR_CONFIG } = require('./src/config/progress-bar')
 const fileTransalate = require('./src/commands/transalate')
 const { asyncForEach, readFileToArray } = require('./src/utils')
 
@@ -20,17 +21,16 @@ const runFunction = async (pathFile, pwd) => {
   const dataMap = readFileToArray(pathFile)
   let fullText = ''
   console.log('')
-  console.log(chalk.blue(`Transalating ... ${pathFile}`))
-  console.log('')
+  console.log(chalk.blue(`Transalating ... ./src${pathFile}`))
   // create a new progress bar instance and use shades_classic theme
-  var bar1 = new Progress.Bar({}, Progress.Presets.shades_grey)
+  var progressBar = new Progress.Bar({}, PROGRESS_BAR_CONFIG)
   // start the progress bar with a total value of 200 and start value of 0
-  bar1.start(dataMap.length, 0)
+  progressBar.start(dataMap.length, 0)
   await asyncForEach(dataMap, async (row, index) => {
     fullText += await renderRow(row)
-    bar1.update(index + 1)
+    progressBar.update(index + 1)
     if(index === dataMap.length - 1){
-      bar1.stop()
+      progressBar.stop()
       fileTransalate(pathFile, fullText, pwd)
     }
   })
