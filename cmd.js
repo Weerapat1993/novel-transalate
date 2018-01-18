@@ -5,8 +5,8 @@ const { asyncForEach, readFileToArray } = require('./src/utils')
 
 const renderRow = async (row) => {
   const textRow = await translate(row, { from: 'en', to: 'th'})
-  const textEng = row.split('.').map(text => `${text.trim()}.`)
-  const textEngJoin = textEng.length <= 1 ? textEng.join('\n') : textEng.slice(0, row.split('.').length - 1).join('\n')
+  const textEng = row.split('.').map((text, index) => (index !== row.split('.').length - 1) ? `${text.trim()}.` : text.trim() )
+  const textEngJoin = textEng.length <= 2 ? textEng.join('\n') : textEng.slice(0, row.split('.').length).join('\n')
   // const textEng = row.split(',').map((text, index) => (index !== row.split(',').length - 1) ? `${text.trim()},` : text.trim()).join('\n')
   // const textStory = `${textEngJoin}\n+ ${textRow.text}\n\n`
   const textStory = `${textEngJoin}\n* **${textRow.text}**\n\n`
