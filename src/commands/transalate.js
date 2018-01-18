@@ -1,15 +1,16 @@
 const { MakeFile } = require('../utils')
 
 // Make Command
-const Transslate = (cmd, env, pwd) => {
-  const file = new MakeFile(cmd, env, pwd)
-  
+const Transalate = (path, env, pwd) => {
+  const file = new MakeFile(null, env, pwd)
+  const pathDocs = path.split(new RegExp('/', 'g')) 
   file
     .createDirectory('/docs')
-    .createFile('/docs/test.md', `
+    .createDirectory(`/docs/${pathDocs[2]}`)
+    .createFile(`/docs/${pathDocs[2]}/${pathDocs[3].replace('.txt', '.md')}`,`
 # Header
 ${env}
 `, true)
 }
 
-module.exports = Transslate
+module.exports = Transalate

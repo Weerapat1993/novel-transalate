@@ -1,14 +1,7 @@
-const fs = require('fs-extra')
-const shell = require('shelljs')
 const chalk = require('chalk')
-const cmd = require('node-cmd')
 const translate = require('google-translate-api')
 const fileTransalate = require('./src/commands/transalate')
-const { path, asyncForEach } = require('./src/utils')
-
-const data = fs.readFileSync(path('/data/test.md'), 'utf8')
-const dataSplit = data.split('\n')
-const dataMap = dataSplit.filter(item => item.trim() !== '').map(row => row.trim())
+const { asyncForEach, readFileToArray } = require('./src/utils')
 
 const renderRow = async (row) => {
   const textRow = await translate(row, { from: 'en', to: 'th'})
@@ -28,24 +21,20 @@ ${textEngJoin}
   return row.search(`“`) === 0 || row.search(/(\()/g) === 0 || row.search('「') === 0 || row.search(/(\[)/g) === 0 ? textMessage : textStory
 }
 
-const runFunction = (pwd) => {
+const runFunction = async (pathFile, pwd) => {
+  const dataMap = readFileToArray(pathFile)
   let fullText = ''
   console.log('')
-  console.log('Transalating ...')
+  console.log(chalk.blue(`Transalating ... ${pathFile}`))
   console.log('')
-  asyncForEach(dataMap, async (row, index) => {
+  await asyncForEach(dataMap, async (row, index) => {
     fullText += await renderRow(row)
     if(index === dataMap.length - 1){
       // console.log(fullText)
-      fileTransalate(null, fullText, pwd)
+      fileTransalate(pathFile, fullText, pwd)
     }
   })
 }
 
-// Run Function
-let pwd
+exports.runFunction = runFunction
 
-cmd.get('pwd', (err, data, stderr) => {
-  pwd = data.replace(new RegExp('\n','g'), '')
-  runFunction(pwd)
-})
