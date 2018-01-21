@@ -12,6 +12,6 @@ cmd.get('pwd', (err, data, stderr) => {
   asyncForEach(ls, async (fileName) => {
     const pathFile = `/data/${folderName}/${fileName}`
     // console.log(path(pathFile))
-    await runFunction(pathFile, pwd)
+    await runFunction(pathFile, pwd, true)
   })
 })
