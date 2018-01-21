@@ -5,7 +5,16 @@ const { PROGRESS_BAR_CONFIG } = require('./src/config/progress-bar')
 const fileTransalate = require('./src/commands/transalate')
 const { asyncForEach, readFileToArray } = require('./src/utils')
 
-const renderRow = async (row) => {
+/**
+ * Render Text Row
+ * @param {string} row 
+ * @param {number} index 
+ */
+const renderRow = async (row, index) => {
+  if(!index) {
+    const textHeader = `# ${row}\n`
+    return textHeader
+  }
   const textRow = await translate(row, { from: 'en', to: 'th'})
   const textEng = row.split('.').map((text, index) => (index !== row.split('.').length - 1) ? `${text.trim()}.` : text.trim() )
   const textEngJoin = textEng.length <= 2 ? textEng.join('\n') : textEng.slice(0, row.split('.').length).join('\n')
@@ -27,7 +36,7 @@ const runFunction = async (pathFile, pwd) => {
   // start the progress bar with a total value of 200 and start value of 0
   progressBar.start(dataMap.length, 0)
   await asyncForEach(dataMap, async (row, index) => {
-    fullText += await renderRow(row)
+    fullText += await renderRow(row, index)
     progressBar.update(index + 1)
     if(index === dataMap.length - 1){
       progressBar.stop()

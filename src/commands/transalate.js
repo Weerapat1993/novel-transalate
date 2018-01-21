@@ -8,7 +8,6 @@ const Transalate = (path, env, pwd) => {
     .createDirectory('/docs')
     .createDirectory(`/docs/${pathDocs[2]}`)
     .createFile(`/docs/${pathDocs[2]}/${pathDocs[3].replace('.txt', '.md')}`,`
-# Header
 ${env}
 `, true)
 }
